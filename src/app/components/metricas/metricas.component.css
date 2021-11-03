@@ -1,0 +1,749 @@
+.imgMetricas{
+	position:absolute;
+	top: 2894px;
+	left: 140px;
+	width: 946px;
+	height: 729px;
+	background: transparent url('/assets/img/Grupo 1352.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+}
+
+.info{
+	position:absolute;
+	top: 2959px;
+	left: 1146px;
+	width: 611px;
+	height: 452px;
+	opacity: 1;
+}
+
+.info > h3{
+	top: 2959px;
+	left: 1146px;
+	width: 186px;
+	height: 26px;
+	color: var(--unnamed-color-232323);
+	text-align: left;
+	font-family: SF Pro Display;
+	font-size:22px;
+	letter-spacing: 0.33px;
+	color: #232323;
+	text-transform: uppercase;
+	opacity: 1;
+	font-weight: bold;
+}
+
+.info > h1{
+	top: 2990px;
+	left: 1146px;
+	width: 611px;
+	height: 116px;
+	color: var(--unnamed-color-e94859);
+	text-align: left;
+	font: normal normal bold 48px/58px SF Pro Display;
+	letter-spacing: 0.72px;
+	color: #E94859;
+	opacity: 1	
+}
+
+
+.info > h5{
+	top: 3116px;
+	left: 1146px;
+	width: 553px;
+	height: 68px;
+	color: var(--unnamed-color-232323);
+	text-align: left;
+	font: normal normal bold 28px/34px SF Pro Display;
+	letter-spacing: 0.42px;
+	color: #232323;
+	opacity: 1;	
+}
+
+.info > p{
+	top: 3202px;
+	left: 1146px;
+	width: 538px;
+	height: 21px;
+	text-align: left;
+	font: normal normal normal 18px/27px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #202020;
+	opacity: 1;
+}
+
+
+.li1{
+	top: 3234px;
+	left: 1173px;
+	width: 538px;
+	height: 21px;
+	text-align: left;
+	font: normal normal normal 18px/27px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #202020;
+	opacity: 1;	
+}
+
+.li1::marker{
+	color: #E94859;
+	font-size:35px;
+}
+
+.li1 > span{
+    margin-left: -20px;
+}
+
+.li2{
+	top: 3268px;
+	left: 1173px;
+	width: 538px;
+	height: 21px;
+	text-align: left;
+	font: normal normal normal 18px/27px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #202020;
+	opacity: 1;
+}
+
+.li2::marker{
+	color: #F0577D;
+	font-size:35px;
+}
+
+.li2 > span{
+    margin-left: -20px;
+}
+
+.li3{
+	top: 3302px;
+	left: 1173px;
+	width: 538px;
+	height: 48px;
+	text-align: left;
+	font: normal normal normal 18px/27px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #202020;
+	opacity: 1;
+}
+
+.li3::marker{
+	color: #FAABBF;
+	font-size:35px;
+}
+
+.li3 > span{
+    margin-left: -20px;
+}
+
+.pFinal{
+	top: 3363px;
+	left: 1146px;
+	width: 538px;
+	height: 48px;
+	text-align: left;
+	font: normal normal normal 18px/27px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #202020;
+	opacity: 1;
+}
+
+.contacto{
+	position:absolute;
+	top: 3442px;
+	left: 1148px;
+	width: 275px;
+	height: 60px;
+	background: var(--unnamed-color-e94859) 0% 0% no-repeat padding-box;
+	background: #E94859 0% 0% no-repeat padding-box;
+	box-shadow: 0px 0px 10px #0045BF1A;
+	border: 1px solid #FF7597;
+	border-radius: 39px;
+	opacity: 1;
+}
+
+.contacto>span{
+	top: 3462px;
+	left: 1210px;
+	width: 151px;
+	height: 21px;
+	text-align: left;
+	font: normal normal 600 18px/21px SF Pro Display;
+	letter-spacing: 0px;
+	color: #FFFFFF;
+	opacity: 1;
+}
+
+.info2{
+	position:absolute;
+	top: 3798px;
+	left: 577px;
+	width: 767px;
+	height: 146px;
+	opacity: 1;
+}
+
+.info2 > h3{
+	top: 3798px;
+	left: 601px;
+	width: 718px;
+	height: 26px;
+	color: var(--unnamed-color-232323);
+	text-align: center;
+	font: normal normal 600 22px/26px SF Pro Display;
+	letter-spacing: 0.33px;
+	color: #232323;
+	opacity: 1
+}
+
+.info2 > h1{
+	top: 3828px;
+	left: 577px;
+	width: 767px;
+	height: 58px;
+	color: var(--unnamed-color-e94859);
+	text-align: left;
+	font: normal normal bold 48px/58px SF Pro Display;
+	letter-spacing: 0.72px;
+	color: #E94859;
+	opacity: 1;
+}
+
+.info2 > h5{
+	top: 3896px;
+	left: 622px;
+	width: 676px;
+	height: 48px;
+	color: var(--unnamed-color-232323);
+	text-align: center;
+	font: normal normal normal 18px/27px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #232323;
+	opacity: 1;	
+}
+
+
+.vinculo1{
+	position:absolute;
+	top: 3987px;
+	left: 304px;
+	width: 1313px;
+	height: 100px;
+	background: transparent url('/assets/img/Grupo 1313.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+	background-size: cover;
+}
+
+.vinculo2{
+	position:absolute;
+	top: 4083px;
+	left: 140px;
+	width: 1641px;
+	height: 100px;
+	background: transparent url('/assets/img/Grupo 1312.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+	background-size: cover;
+}
+
+.vinculo3{
+	position:absolute;
+	top: 4172px;
+	left: 371px;
+	width: 1179px;
+	height: 100px;
+	background: transparent url('/assets/img/Grupo 1353.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+	background-size: cover;
+}
+
+
+.imgMetricas2{
+	position:absolute;
+	top: 4420px;
+	left: 680px;
+	width: 1350px;
+	height: 913px;
+	background: transparent url('/assets/img/Grupo 1513.png') 0% 0% no-repeat padding-box;
+	opacity: 1;	
+}
+
+.info3{
+	position:absolute;
+	top: 4517px;
+	left: 212px;
+	width: 661px;
+	height: 574px;
+	opacity: 1;
+}
+
+.info3>h3{
+	top: 4517px;
+	left: 212px;
+	width: 530px;
+	height: 26px;
+	color: var(--unnamed-color-232323);
+	text-align: left;
+	font: normal normal bold 22px/26px SF Pro Display;
+	letter-spacing: 0.33px;
+	color: #232323;
+	text-transform: uppercase;
+	opacity: 1;	
+}
+
+
+.info3>h1{
+	top: 4548px;
+	left: 212px;
+	width: 614px;
+	height: 116px;
+	color: var(--unnamed-color-e94859);
+	text-align: left;
+	font: normal normal bold 48px/58px SF Pro Display;
+	letter-spacing: 0.72px;
+	color: #E94859;
+	opacity: 1;
+}
+
+.info3 > h5{
+	top: 4674px;
+	left: 212px;
+	width: 623px;
+	height: 68px;
+	color: var(--unnamed-color-232323);
+	text-align: left;
+	font: normal normal medium 28px/34px SF Pro Display;
+	letter-spacing: 0.42px;
+	color: #232323;
+	opacity: 1;
+}
+
+.li4{
+	position:absolute;
+	top: 4792px;
+	left: 239px;
+	width: 151px;
+	height: 48px;
+	text-align: left;
+	font: normal normal normal 18px/27px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #202020;
+	opacity: 1;
+}
+
+.li4::marker{
+	color: #E94859;
+	font-size:35px;
+}
+
+.li4 > span{
+    margin-left: -20px;
+}
+
+.li5{
+	position:absolute;
+	top: 4867px;
+	left: 239px;
+	width: 166px;
+	height: 48px;
+	text-align: left;
+	font: normal normal normal 18px/27px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #202020;
+	opacity: 1;	
+}
+
+.li5::marker{
+	color: #F5829F;
+	font-size:35px;
+}
+
+.li5 > span{
+    margin-left: -20px;
+}
+
+.li6{
+	position:absolute;
+	top: 4942px;
+	left: 239px;
+	width: 151px;
+	height: 48px;
+	text-align: left;
+	font: normal normal normal 18px/27px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #202020;
+	opacity: 1;
+}
+
+.li6::marker{
+	color: #FFAD86;
+	font-size:35px;
+}
+
+.li6 > span{
+    margin-left: -20px;
+}
+
+
+.li7{
+	position:absolute;
+	top: 5016px;
+	left: 239px;
+	width: 166px;
+	height: 75px;
+	text-align: left;
+	font: normal normal normal 18px/27px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #202020;
+	opacity: 1;
+}
+
+.li7::marker{
+	color: #F8AA36;
+	font-size:35px;
+}
+
+.li7 > span{
+    margin-left: -20px;
+}
+
+.li8{
+	position:absolute;
+	top: 4792px;
+	left: 482px;
+	width: 166px;
+	height: 48px;
+	text-align: left;
+	font: normal normal normal 18px/27px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #202020;
+	opacity: 1;
+}
+
+.li8::marker{
+	color: #EC3360;
+	font-size:35px;
+}
+
+.li8 > span{
+    margin-left: -20px;
+}
+
+.li9{
+	position:absolute;
+	top: 4867px;
+	left: 482px;
+	width: 114px;
+	height: 48px;
+	text-align: left;
+	font: normal normal normal 18px/27px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #202020;
+	opacity: 1;
+}
+
+.li9::marker{
+	color: #FAABBF;
+	font-size:35px;
+}
+
+.li9 > span{
+    margin-left: -20px;
+}
+
+.li10{
+	position:absolute;
+	top: 4942px;
+	left: 482px;
+	width: 166px;
+	height: 21px;
+	text-align: left;
+	font: normal normal normal 18px/27px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #202020;
+	opacity: 1;
+}
+
+.li10::marker{
+	color: #FF905B;
+	font-size:35px;
+}
+
+.li10 > span{
+    margin-left: -20px;
+}
+
+.li11{
+	position:absolute;
+	top: 5015px;
+	left: 482px;
+	width: 173px;
+	height: 75px;
+	text-align: left;
+	font: normal normal normal 18px/27px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #202020;
+	opacity: 1;
+}
+
+.li11::marker{
+	color: #FFBD5C;
+	font-size:35px;
+}
+
+.li11 > span{
+    margin-left: -20px;
+}
+
+.li12{
+	position:absolute;
+	top: 4791px;
+	left: 709px;
+	width: 151px;
+	height: 48px;
+	text-align: left;
+	font: normal normal normal 18px/27px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #202020;
+	opacity: 1;
+}
+
+.li12::marker{
+	color: #F0577D;
+	font-size:35px;
+}
+
+.li12 > span{
+    margin-left: -20px;
+}
+
+
+.li13{
+	position:absolute;
+	top: 4867px;
+	left: 707px;
+	width: 151px;
+	height: 48px;
+	text-align: left;
+	font: normal normal normal 18px/27px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #202020;
+	opacity: 1;
+}
+
+.li13::marker{
+	color: #FFE1D2;
+	font-size:35px;
+}
+
+.li13 > span{
+    margin-left: -20px;
+}
+
+
+.li14{
+	position:absolute;
+	top: 4942px;
+	left: 707px;
+	width: 166px;
+	height: 75px;
+	text-align: left;
+	font: normal normal normal 18px/27px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #202020;
+	opacity: 1;
+}
+
+.li14::marker{
+	color: #FF7837;
+	font-size:35px;
+}
+
+.li14 > span{
+    margin-left: -20px;
+}
+
+
+
+.imgMetricas3{
+	position:absolute;
+	top: 5246px;
+	left: -11px;
+	width: 1215px;
+	height: 684px;
+	background: transparent url('/assets/img/Grupo 1514.png') 0% 0% no-repeat padding-box;
+	opacity: 1;	
+}
+
+.info4{
+	position:absolute;
+	top: 5369px;
+	left: 1146px;
+	width: 614px;
+	height: 352px;
+	opacity: 1;	
+	
+}
+
+.info4 > h3{
+	top: 5369px;
+	left: 1146px;
+	width: 229px;
+	height: 26px;
+	color: var(--unnamed-color-232323);
+	text-align: left;
+	font: normal normal bold 22px/26px SF Pro Display;
+	letter-spacing: 0.33px;
+	color: #232323;
+	text-transform: uppercase;
+	opacity: 1;
+}
+
+.info4 > h1{
+	top: 5400px;
+	left: 1146px;
+	width: 579px;
+	height: 116px;
+	color: var(--unnamed-color-e94859);
+	text-align: left;
+	font: normal normal bold 48px/58px SF Pro Display;
+	letter-spacing: 0.72px;
+	color: #E94859;
+	opacity: 1;	
+}
+
+.info4 > h5{
+	top: 5526px;
+	left: 1146px;
+	width: 553px;
+	height: 68px;
+	color: var(--unnamed-color-232323);
+	text-align: left;
+	font: normal normal bold 28px/34px SF Pro Display;
+	letter-spacing: 0.42px;
+	color: #232323;
+	opacity: 1;	
+}
+
+.info4 > p{
+	top: 5612px;
+	left: 1146px;
+	width: 538px;
+	height: 75px;
+	text-align: left;
+	font: normal normal normal 18px/27px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #202020;
+	opacity: 1;
+}
+
+.li15{
+	position:absolute;
+	top: 5700px;
+	left: 1173px;
+	width: 100px;
+	height: 21px;
+	text-align: left;
+	font: normal normal normal 18px/27px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #202020;
+	opacity: 1;
+}
+
+.li15::marker{
+	color: #E94859;
+	font-size:35px;
+}
+.li15 > span{
+    margin-left: -20px;
+}
+
+.li16{
+	position:absolute;
+	top: 5700px;
+	left: 1273px;
+	width: 100px;
+	height: 21px;
+	text-align: left;
+	font: normal normal normal 18px/27px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #202020;
+	opacity: 1;	
+}
+
+
+.li16::marker{
+	color: #F0577D;
+	font-size:35px;
+}
+
+.li16 > span{
+    margin-left: -20px;
+}
+
+.li17{
+	position:absolute;
+	top: 5700px;
+	left: 1376px;
+	width: 150px;
+	height: 21px;
+	text-align: left;
+	font: normal normal normal 18px/27px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #202020;
+	opacity: 1;
+}
+
+.li17::marker{
+	color: #40FF46;
+	font-size:35px;
+}
+
+.li17 > span{
+    margin-left: -20px;
+}
+
+
+.li18{
+	position:absolute;
+	top: 5700px;
+	left: 1516px;
+	width: 100px;
+	height: 21px;
+	text-align: left;
+	font: normal normal normal 18px/27px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #202020;
+	opacity: 1;
+}
+
+.li18::marker{
+	color: #F8AA36;
+	font-size:35px;
+}
+
+.li18 > span{
+    margin-left: -20px;
+}
+
+
+.li19{
+	position:absolute;
+	top: 5700px;
+	left: 1620px;
+	width: 200px;
+	height: 21px;
+	text-align: left;
+	font: normal normal normal 18px/27px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #202020;
+	opacity: 1;
+}
+
+.li19::marker{
+	color: #ABC3FA;
+	font-size:35px;
+}
+
+.li19 > span{
+    margin-left: -20px;
+}

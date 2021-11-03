@@ -1,0 +1,173 @@
+.info{
+	position:absolute;
+	top: 245px;
+	left: 212px;
+	width: 574px;
+	height: 476px;
+	opacity: 1;
+}
+
+.info-title{
+	top: 245px;
+	left: 212px;
+	width: 507px;
+	height: 174px;
+	text-align: left;
+	font: normal normal bold 48px/58px SF Pro Display;
+	letter-spacing: 0.72px;
+	opacity: 1;
+	
+}
+
+
+.info-title > span{
+	top: 0px;
+	left: 0px;
+	width: 462px;
+	height: 58px;
+	text-align: left;
+	font: normal normal bold 48px/58px SF Pro Display;
+	letter-spacing: 0.72px;
+	color: #ED3F5C;	
+}
+
+
+.info-content{
+	top: 438px;
+	left: 212px;
+	width: 538px;
+	height: 75px;
+	text-align: left;
+	font: normal normal normal 18px/27px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #202020;
+	opacity: 1;
+}
+
+.circleRed{
+	top: 533px;
+	left: 212px;
+	width: 17px;
+	height: 17px;
+	background: var(--unnamed-color-ec3360) 0% 0% no-repeat padding-box;
+	background: #EC3360 0% 0% no-repeat padding-box;
+	opacity: 1;
+}
+
+
+.parrafo1{
+	position: absolute;
+	top: 531px;
+	left: 212px;
+	width: 568px;
+	height: 21px;
+	opacity: 1;
+}
+
+
+.parrafo2{
+	position: absolute;
+	top: 570px;
+	left: 212px;
+	width: 568px;
+	height: 21px;
+	opacity: 1;
+}
+
+.circleOrange{
+	top: 572px;
+	left: 212px;
+	width: 17px;
+	height: 17px;
+	background: var(--unnamed-color-ff7837) 0% 0% no-repeat padding-box;
+	background: #FF7837 0% 0% no-repeat padding-box;
+	opacity: 1;
+}
+
+
+.parrafo3{
+	position: absolute;
+	top: 609px;
+	left: 212px;
+	width: 568px;
+	height: 21px;
+	opacity: 1;
+}
+
+
+.contactanos{
+	position: absolute;
+	top: 661px;
+	left: 212px;
+	width: 275px;
+	height: 60px;
+	background: var(--unnamed-color-e94859) 0% 0% no-repeat padding-box;
+	background: #E94859 0% 0% no-repeat padding-box;
+	box-shadow: 0px 0px 10px #0045BF1A;
+	border: 1px solid #FF7597;
+	border-radius: 39px;
+	opacity: 1;
+}
+
+
+.contactanos{
+	position: absolute;
+	top: 661px;
+	left: 212px;
+	width: 275px;
+	height: 60px;
+	background: var(--unnamed-color-e94859) 0% 0% no-repeat padding-box;
+	background: #E94859 0% 0% no-repeat padding-box;
+	box-shadow: 0px 0px 10px #0045BF1A;
+	border: 1px solid #FF7597;
+	border-radius: 39px;
+	opacity: 1;
+}
+
+.contactanos > span{
+	top: 681px;
+	left: 274px;
+	width: 151px;
+	height: 21px;
+	text-align: left;
+	font: normal normal 600 18px/21px SF Pro Display;
+	letter-spacing: 0px;
+	color: #FFFFFF;
+	opacity: 1;
+}
+
+
+.quienesSomos{
+	position: absolute;
+	top: 661px;
+	left: 511px;
+	width: 275px;
+	height: 60px;
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	box-shadow: 0px 0px 10px #0045BF1A;
+	border: 1px solid #C1C1C1;
+	border-radius: 39px;
+	opacity: 1;
+}
+
+.quienesSomos  > span{
+	top: 681px;
+	left: 587px;
+	width: 123px;
+	height: 21px;
+	text-align: left;
+	font: normal normal 600 18px/21px SF Pro Display;
+	letter-spacing: 0px;
+	color: #656565;
+	opacity: 1;
+}
+
+.laptop{
+	position:absolute;
+	top: -126.03449249267578px;
+	left: 506px;
+	width: 1653px;
+	height: 1210px;
+	background: transparent url('/assets/img/Grupo 1356.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+}

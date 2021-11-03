@@ -1,0 +1,183 @@
+.content{
+	position:absolute;
+	top: 1956px;
+	left: 163px;
+	width: 1583px;
+	height: 756px;
+	opacity: 1;
+}
+
+.preTitle{
+	text-align: center;
+    font-size: 24px;
+    font-family: 'SF Pro Display';
+    font-weight: bold;
+}
+
+.title{
+	color: var(--unnamed-color-e94859);
+	text-align: left;
+	font: normal normal bold 48px/58px SF Pro Display;
+	letter-spacing: 0.72px;
+	color: #E94859;
+	opacity: 1;
+	text-align: center;
+}
+
+.subTitle{
+	width: 676px;
+	height: 48px;
+	color: var(--unnamed-color-232323);
+	text-align: center;
+	font: normal normal normal 18px/27px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #232323;
+	opacity: 1;
+	margin: 0 auto;
+}
+
+
+.modulo1{
+	position:absolute;
+	top: 2162px;
+	left: 163px;
+	width: 316px;
+	height: 149px;
+	background: transparent url('/assets/img/Grupo 902.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+	background-size: cover;
+}
+
+.modulo2{
+	position:absolute;
+	top: 2162px;
+	left: 589px;
+	width: 316px;
+	height: 149px;
+	background: transparent url('/assets/img/Grupo 1207.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+	background-size: cover;
+}
+
+.modulo3{
+	position:absolute;
+	top: 2162px;
+	left: 1016px;
+	width: 316px;
+	height: 149px;
+	background: transparent url('/assets/img/Grupo 1208.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+	background-size: cover;
+}
+
+.imgModulo3{
+	position:absolute;
+	top: 2209px;
+	left: 1064px;
+	width: 70px;
+	height: 54px;
+	background: transparent url('/assets/img/Grupo 1230.png') 0% 0% no-repeat padding-box;
+	opacity: 1;	
+	background-size: cover;
+}
+
+.modulo4{
+	position:absolute;
+	top: 2162px;
+	left: 1430px;
+	width: 316px;
+	height: 149px;
+	background: transparent url('/assets/img/Grupo 1209.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+	background-size: cover;
+}
+
+.modulo5{
+	position:absolute;
+	top: 2363px;
+	left: 163px;
+	width: 316px;
+	height: 149px;
+	background: transparent url('/assets/img/Grupo 1210.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+	background-size: cover;
+}
+
+.modulo6{
+	position:absolute;
+	top: 2363px;
+	left: 589px;
+	width: 316px;
+	height: 149px;
+	background: transparent url('/assets/img/Grupo 1211.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+	background-size: cover;
+}
+
+.modulo7{
+	position:absolute;
+	top: 2363px;
+	left: 1016px;
+	width: 316px;
+	height: 149px;
+	background: transparent url('/assets/img/Grupo 1212.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+	background-size: cover;
+}
+
+.modulo8{
+	position:absolute;
+	top: 2363px;
+	left: 1430px;
+	width: 316px;
+	height: 149px;
+	background: transparent url('/assets/img/Grupo 1213.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+	background-size: cover;
+}
+
+
+.modulo9{
+	position:absolute;
+	top: 2563px;
+	left: 163px;
+	width: 316px;
+	height: 149px;
+	background: transparent url('/assets/img/Grupo 1214.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+	background-size: cover;
+}
+
+.modulo10{
+	position:absolute;
+	top: 2563px;
+	left: 589px;
+	width: 316px;
+	height: 149px;
+	background: transparent url('/assets/img/Grupo 1215.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+	background-size: cover;
+}
+
+.modulo11{
+	position:absolute;
+	top: 2563px;
+	left: 1016px;
+	width: 316px;
+	height: 149px;
+	background: transparent url('/assets/img/Grupo 1216.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+	background-size: cover;
+}
+
+
+.modulo12{
+	position:absolute;
+	top: 2563px;
+	left: 1430px;
+	width: 316px;
+	height: 149px;
+	background: transparent url('/assets/img/Grupo 1218.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+	background-size: cover;
+}

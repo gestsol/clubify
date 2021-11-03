@@ -1,0 +1,341 @@
+.contenedor{
+	position:absolute;
+	top: 7805px;
+	left: 140px;
+	width: 1640px;
+	height: 758px;
+	background: var(--unnamed-color-fdf6f0) 0% 0% no-repeat padding-box;
+	background: #FDF6F0 0% 0% no-repeat padding-box;
+	opacity: 1;
+	
+}
+
+.contenedor-white{
+	position:absolute;
+	top: 7914px;
+	left: 320px;
+	width: 449px;
+	height: 602px;
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	box-shadow: 0px 1px 48px #00000038;
+	border-radius: 22px;
+	opacity: 1;
+}
+
+h1{
+	position:absolute;
+	top: 7952px;
+	left: 361px;
+	width: 319px;
+	height: 34px;
+	color: var(--unnamed-color-e94859);
+	text-align: left;
+	font: normal normal 600 28px/34px SF Pro Display;
+	letter-spacing: 0.42px;
+	color: #E94859;
+	opacity: 1;
+	
+}
+
+.labelNombre{
+	position:absolute;
+	top: 8004px;
+	left: 361px;
+	width: 351px;
+	height: 21px;
+	color: var(--unnamed-color-232323);
+	text-align: left;
+	font: normal normal normal 18px/21px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #232323;
+	opacity: 1;
+}
+
+.inputNombre{
+	position:absolute;
+	top: 8030px;
+	left: 361px;
+	width: 367px;
+	height: 32px;
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	border: 0.699999988079071px solid #707070;
+	border-radius: 7px;
+	opacity: 1;
+}
+
+.labelApellido{
+	position:absolute;
+	top: 8065px;
+	left: 361px;
+	width: 351px;
+	height: 21px;
+	color: var(--unnamed-color-232323);
+	text-align: left;
+	font: normal normal normal 18px/21px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #232323;
+	opacity: 1;
+}
+
+.inputApellido{
+	position:absolute;
+	top: 8091px;
+	left: 361px;
+	width: 367px;
+	height: 32px;
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	border: 0.699999988079071px solid #707070;
+	border-radius: 7px;
+	opacity: 1;
+}
+
+.labelCorreo{
+	position:absolute;
+	top: 8130px;
+	left: 361px;
+	width: 351px;
+	height: 21px;
+	color: var(--unnamed-color-232323);
+	text-align: left;
+	font: normal normal normal 18px/21px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #232323;
+	opacity: 1;
+}
+
+.inputCorreo{
+	position:absolute;
+	top: 8156px;
+	left: 361px;
+	width: 367px;
+	height: 32px;
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	border: 0.699999988079071px solid #707070;
+	border-radius: 7px;
+	opacity: 1;
+}
+
+.labelTelefono{
+	position:absolute;
+	top: 8195px;
+	left: 361px;
+	width: 351px;
+	height: 21px;
+	color: var(--unnamed-color-232323);
+	text-align: left;
+	font: normal normal normal 18px/21px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #232323;
+	opacity: 1;
+}
+
+.inputTelefono{
+	position:absolute;
+	top: 8221px;
+	left: 361px;
+	width: 367px;
+	height: 32px;
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	border: 0.699999988079071px solid #707070;
+	border-radius: 7px;
+	opacity: 1;
+}
+
+.labelMensaje{
+	position:absolute;
+	top: 8268px;
+	left: 361px;
+	width: 351px;
+	height: 21px;
+	color: var(--unnamed-color-232323);
+	text-align: left;
+	font: normal normal normal 18px/21px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #232323;
+	opacity: 1;
+}
+
+.inputMensaje{
+	position:absolute;
+	top: 8293px;
+	left: 361px;
+	width: 367px;
+	height: 107px;
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	border: 0.699999988079071px solid #707070;
+	border-radius: 7px;
+	opacity: 1;
+}
+
+.btnContacto{
+	position:absolute;
+	top: 8418px;
+	left: 361px;
+	width: 367px;
+	height: 60px;
+	background: var(--unnamed-color-e94859) 0% 0% no-repeat padding-box;
+	background: #E94859 0% 0% no-repeat padding-box;
+	box-shadow: 0px 0px 10px #0045BF1A;
+	border: 1px solid #FF7597;
+	border-radius: 39px;
+	opacity: 1;
+}
+
+.btnContacto >span{
+	width: 79px;
+	height: 21px;
+	text-align: left;
+	font: normal normal 600 18px/21px SF Pro Display;
+	letter-spacing: 0px;
+	color: #FFFFFF;
+	opacity: 1;
+}
+
+.tituloContacto{
+	position:absolute;
+	top: 8015px;
+	left: 960px;
+	width: 547px;
+	height: 58px;
+	color: var(--unnamed-color-232323);
+	text-align: left;
+	font: normal normal bold 48px/58px SF Pro Display;
+	letter-spacing: 0.72px;
+}
+
+.tituloCorreo{
+	position:absolute;
+	top: 8073px;
+	left: 960px;
+	width: 553px;
+	height: 34px;
+	color: var(--unnamed-color-232323);
+	text-align: left;
+	font: normal normal medium 28px/34px SF Pro Display;
+	letter-spacing: 0.42px;
+}
+
+.correo{
+	position:absolute;
+	top: 8107px;
+	left: 960px;
+	width: 538px;
+	height: 21px;
+	color: var(--unnamed-color-232323);
+	text-align: left;
+	font: normal normal normal 18px/21px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #232323;
+	opacity: 1;
+}
+
+.tituloTelefono{
+	position:absolute;
+	top: 8148px;
+	left: 960px;
+	width: 553px;
+	height: 34px;
+	color: var(--unnamed-color-232323);
+	text-align: left;
+	font: normal normal medium 28px/34px SF Pro Display;
+	letter-spacing: 0.42px;
+	color: #232323;
+	opacity: 1;
+}
+
+
+.telefono{
+	position:absolute;
+	top: 8182px;
+	left: 960px;
+	width: 538px;
+	height: 21px;
+	color: var(--unnamed-color-232323);
+	text-align: left;
+	font: normal normal normal 18px/21px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #232323;
+	opacity: 1;
+}
+
+.tituloDireccion{
+	position:absolute;
+	top: 8223px;
+	left: 960px;
+	width: 553px;
+	height: 34px;
+	color: var(--unnamed-color-232323);
+	text-align: left;
+	font: normal normal medium 28px/34px SF Pro Display;
+	letter-spacing: 0.42px;
+	color: #232323;
+	opacity: 1;
+}
+
+.direccion{
+	position:absolute;
+	top: 8257px;
+	left: 960px;
+	width: 538px;
+	height: 21px;
+	color: var(--unnamed-color-232323);
+	text-align: left;
+	font: normal normal normal 18px/21px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #232323;
+	opacity: 1;
+}
+
+.tituloRedesSociales{
+	position:absolute;
+	top: 8302px;
+	left: 960px;
+	width: 555px;
+	height: 58px;
+	color: var(--unnamed-color-232323);
+	text-align: left;
+	font: normal normal bold 48px/58px SF Pro Display;
+	letter-spacing: 0.72px;
+	color: #232323;
+	opacity: 1;
+}
+
+.instagram{
+	position:absolute;
+	top: 8371px;
+	left: 960px;
+	width: 32px;
+	height: 32px;
+	background: transparent url('/assets/img/Grupo 1163.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+}
+
+.facebook{
+	position:absolute;
+	top: 8371px;
+	left: 1010px;
+	width: 32px;
+	height: 32px;
+	background: transparent url('/assets/img/Icon ionic-logo-facebook.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+}
+
+.twitter{
+	position:absolute;
+	top: 8371px;
+	left: 1059px;
+	width: 40px;
+	height: 32px;
+	background: transparent url('/assets/img/Icon ionic-logo-twitter.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+}
+
+.email{
+	position:absolute;
+	top: 8374px;
+	left: 1117px;
+	width: 38px;
+	height: 26px;
+	background: transparent url('/assets/img/Grupo 1162.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+}

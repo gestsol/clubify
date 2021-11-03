@@ -1,0 +1,230 @@
+ h1{
+	position:absolute;
+	top: 6080px;
+	left: 848px;
+	width: 225px;
+	height: 58px;
+	color: var(--unnamed-color-e94859);
+	text-align: left;
+	font: normal normal bold 48px/58px SF Pro Display;
+	letter-spacing: 0.72px;
+	color: #E94859;
+	opacity: 1;
+}
+
+h4{
+	position:absolute;
+	top: 6142px;
+	left: 564px;
+	width: 792px;
+	height: 68px;
+	color: var(--unnamed-color-232323);
+	text-align: center;
+	font: normal normal medium 28px/34px SF Pro Display;
+	letter-spacing: 0.42px;
+	color: #232323;
+	opacity: 1
+}
+
+.imgIndustrias{
+	position:absolute;
+	top: 6230px;
+	left: 700px;
+	width: 520px;
+	height: 652px;
+	background: transparent url('/assets/img/excited-looking-male-handsome-guy-with-brunette-hair-beard-has-piercing-wearing-black-sweater-holds-smartphone-watching-it-reading-message-stand-isolated-yellow-wall copia 3.png') 0% 0% no-repeat padding-box;
+	opacity: 1;	
+	background-size: cover;
+}
+
+.industria1{
+	position:absolute;
+	top: 6281px;
+	left: 263px;
+	width: 247px;
+	height: 63px;
+	color: var(--unnamed-color-232323);
+	text-align: left;
+	letter-spacing: 0.27px;
+	color: #232323;
+	opacity: 1;
+	font: normal normal normal 18px/21px SF Pro Display;
+}
+
+.imgIndustrias1{
+	position:absolute;
+	top: 6232px;
+	left: 527px;
+	width: 160px;
+	height: 160px;
+	background: transparent url('/assets/img/Grupo 982.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+}
+
+.industria2{
+	position:absolute;
+	top: 6441px;
+	left: 140px;
+	width: 231px;
+	height: 63px;
+	color: var(--unnamed-color-232323);
+	text-align: left;
+	letter-spacing: 0.27px;
+	color: #232323;
+	opacity: 1;
+	font: normal normal normal 18px/21px SF Pro Display;
+}
+
+.imgIndustrias2{
+	position:absolute;
+	top: 6392px;
+	left: 383px;
+	width: 160px;
+	height: 160px;
+	background: transparent url('/assets/img/Grupo 983.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+}
+.industria3{
+	position:absolute;
+	top: 6631px;
+	left: 140px;
+	width: 231px;
+	height: 63px;
+	color: var(--unnamed-color-232323);
+	text-align: left;
+	letter-spacing: 0.27px;
+	color: #232323;
+	opacity: 1;
+	font: normal normal normal 18px/21px SF Pro Display;
+}
+
+.imgIndustrias3{
+	position:absolute;
+	top: 6582px;
+	left: 383px;
+	width: 160px;
+	height: 160px;
+	background: transparent url('/assets/img/Grupo 1220.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+}
+
+.industria4{
+	position:absolute;
+	top: 6795px;
+	left: 296px;
+	width: 231px;
+	height: 63px;
+	color: var(--unnamed-color-232323);
+	text-align: left;
+	letter-spacing: 0.27px;
+	color: #232323;
+	opacity: 1;
+	font: normal normal normal 18px/21px SF Pro Display;
+}
+
+.imgIndustrias4{
+	position:absolute;
+	top: 6746px;
+	left: 527px;
+	width: 160px;
+	height: 160px;
+	background: transparent url('/assets/img/Grupo 984.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+}
+
+.industria5{
+	position:absolute;
+	top: 6280px;
+	left: 1419px;
+	width: 229px;
+	height: 63px;
+	color: var(--unnamed-color-232323);
+	text-align: left;
+	letter-spacing: 0.27px;
+	color: #232323;
+	opacity: 1;
+	font: normal normal normal 18px/21px SF Pro Display;
+}
+
+.imgIndustrias5{
+	position:absolute;
+	top: 6232px;
+	left: 1246px;
+	width: 160px;
+	height: 160px;
+	background: transparent url('/assets/img/Grupo 1219.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+}
+
+.industria6{
+	position:absolute;
+	top: 6441px;
+	left: 1545px;
+	width: 231px;
+	height: 63px;
+	color: var(--unnamed-color-232323);
+	text-align: left;
+	letter-spacing: 0.27px;
+	color: #232323;
+	opacity: 1;
+	font: normal normal normal 18px/21px SF Pro Display;
+}
+
+.imgIndustrias6{
+	position:absolute;
+	top: 6392px;
+	left: 1373px;
+	width: 160px;
+	height: 160px;
+	background: transparent url('/assets/img/Grupo 981.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+}
+
+
+.industria7{
+	position:absolute;
+	top: 6631px;
+	left: 1549px;
+	width: 231px;
+	height: 63px;
+	color: var(--unnamed-color-232323);
+	text-align: left;
+	letter-spacing: 0.27px;
+	color: #232323;
+	opacity: 1;
+	font: normal normal normal 18px/21px SF Pro Display;
+}
+
+.imgIndustrias7{
+	position:absolute;
+	top: 6582px;
+	left: 1373px;
+	width: 166px;
+	height: 160px;
+	background: transparent url('/assets/img/Grupo 985.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+}
+
+.industria8{
+	position:absolute;
+	top: 6795px;
+	left: 1416px;
+	width: 231px;
+	height: 63px;
+	color: var(--unnamed-color-232323);
+	text-align: left;
+	letter-spacing: 0.27px;
+	color: #232323;
+	opacity: 1;
+	font: normal normal normal 18px/21px SF Pro Display;
+}
+
+.imgIndustrias8{
+	position:absolute;
+	top: 6746px;
+	left: 1246px;
+	width: 160px;
+	height: 160px;
+	background: transparent url('/assets/img/Grupo 1354.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+}

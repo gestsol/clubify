@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: 'SF Pro Display';
+    src: url('assets/fonts/SFProDisplay-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+body{
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 8902px;
+	background: #FFFEFC 0% 0% no-repeat padding-box !important;
+	opacity: 1;
+}

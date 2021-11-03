@@ -1,0 +1,79 @@
+.content{
+	position:absolute;
+	top: 1096px;
+	left: 544px;
+	width: 789px;
+	height: 146px;
+	opacity: 1;	
+}
+
+.preTitle{
+	top: 1096px;
+	left: 601px;
+	width: 676px;
+	height: 26px;
+	color: var(--unnamed-color-232323);
+	text-align: center;
+	letter-spacing: 3.3px;
+	color: #232323;
+	opacity: 1;
+	font-family: 'SF Pro Display';
+    font-size: 22px;
+}
+
+.title{
+	top: 1126px;
+	left: 544px;
+	width: 789px;
+	height: 58px;
+	color: var(--unnamed-color-e94859);
+	text-align: left;
+	font: normal normal bold 48px/58px SF Pro Display;
+	letter-spacing: 0.72px;
+	color: #E94859;
+	opacity: 1;	
+		
+}
+
+.subTitle{
+	top: 1194px;
+	left: 601px;
+	width: 676px;
+	height: 48px;
+	color: var(--unnamed-color-232323);
+	text-align: center;
+	font: normal normal normal 18px/27px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #232323;
+	opacity: 1;	
+}
+
+.marcas1{
+	position:absolute;
+	top: 1257px;
+	left: -50.6962890625px;
+	width: 1990px;
+	height: 166px;
+	background: transparent url('/assets/img/Grupo 1351.png') 0% 0% no-repeat padding-box;
+	opacity: 1;	
+}
+
+.marcas2{
+	position:absolute;
+	top: 1440px;
+	left: -132.3134765625px;
+	width: 2194px;
+	height: 165px;
+	background: transparent url('/assets/img/Grupo 923.png') 0% 0% no-repeat padding-box;
+	opacity: 1;	
+}
+
+.marcas3{
+	position:absolute;
+	top: 1623px;
+	left: -49.6884765625px;
+	width: 1993px;
+	height: 166px;
+	background: transparent url('/assets/img/Grupo 922.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+}

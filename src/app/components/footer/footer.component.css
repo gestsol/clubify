@@ -1,0 +1,74 @@
+.footer{
+	position:absolute;
+	top: 8649px;
+	left: 0px;
+	width: 1920px;
+	height: 254px;
+	background: var(--unnamed-color-e94859) 0% 0% no-repeat padding-box;
+	background: #E94859 0% 0% no-repeat padding-box;
+	opacity: 1;
+}
+
+h5{
+	position:absolute;
+	top: 8770px;
+	left: 701px;
+	width: 538px;
+	height: 21px;
+	text-align: center;
+	font: normal normal normal 18px/21px SF Pro Display;
+	letter-spacing: 0.27px;
+	color: #FFFFFF;
+	opacity: 1;
+}
+
+.logo{
+	position:absolute;
+	top: 8695px;
+	left: 870px;
+	width: 200px;
+	height: 63px;
+	background: transparent url('/assets/img/Grupo 964.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+}
+
+
+.instagram{
+	position:absolute;
+	top: 8825px;
+	left: 815px;
+	width: 32px;
+	height: 32px;
+	background: transparent url('/assets/img/Grupo 1164.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+}
+
+.facebook{
+	position:absolute;
+	top: 8825px;
+	left: 901px;
+	width: 32px;
+	height: 32px;
+	background: transparent url('/assets/img/Icon ionic-logo-facebook-white.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+}
+
+.twitter{
+	position:absolute;
+	top: 8825px;
+	left: 987px;
+	width: 40px;
+	height: 32px;
+	background: transparent url('/assets/img/Icon ionic-logo-twitter-white.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+}
+
+.email{
+	position:absolute;
+	top: 8828px;
+	left: 1087px;
+	width: 38px;
+	height: 26px;
+	background: transparent url('/assets/img/Grupo 1165.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+}
