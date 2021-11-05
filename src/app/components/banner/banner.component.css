@@ -44,14 +44,31 @@
 	opacity: 1;
 }
 
-.circleRed{
-	top: 533px;
-	left: 212px;
-	width: 17px;
-	height: 17px;
-	background: var(--unnamed-color-ec3360) 0% 0% no-repeat padding-box;
-	background: #EC3360 0% 0% no-repeat padding-box;
-	opacity: 1;
+.circleRed::marker{
+	color: #EC3360;
+	font-size:35px;
+}
+
+.circleRed > span{
+    margin-left: -20px;
+}
+
+.circleOrange::marker{
+	color: #FF7837;
+	font-size:35px;
+}
+
+.circleOrange > span{
+    margin-left: -20px;
+}
+
+.circleYellow::marker{
+	color: #F8AA36;
+	font-size:35px;	
+}
+
+.circleYellow > span{
+    margin-left: -20px;
 }
 
 
@@ -74,15 +91,7 @@
 	opacity: 1;
 }
 
-.circleOrange{
-	top: 572px;
-	left: 212px;
-	width: 17px;
-	height: 17px;
-	background: var(--unnamed-color-ff7837) 0% 0% no-repeat padding-box;
-	background: #FF7837 0% 0% no-repeat padding-box;
-	opacity: 1;
-}
+
 
 
 .parrafo3{
@@ -97,7 +106,7 @@
 
 .contactanos{
 	position: absolute;
-	top: 661px;
+	top: 681px;
 	left: 212px;
 	width: 275px;
 	height: 60px;
@@ -110,19 +119,6 @@
 }
 
 
-.contactanos{
-	position: absolute;
-	top: 661px;
-	left: 212px;
-	width: 275px;
-	height: 60px;
-	background: var(--unnamed-color-e94859) 0% 0% no-repeat padding-box;
-	background: #E94859 0% 0% no-repeat padding-box;
-	box-shadow: 0px 0px 10px #0045BF1A;
-	border: 1px solid #FF7597;
-	border-radius: 39px;
-	opacity: 1;
-}
 
 .contactanos > span{
 	top: 681px;
@@ -139,7 +135,7 @@
 
 .quienesSomos{
 	position: absolute;
-	top: 661px;
+	top: 681px;
 	left: 511px;
 	width: 275px;
 	height: 60px;
