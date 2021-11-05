@@ -12,4 +12,18 @@ export class MenuComponent implements OnInit {
   ngOnInit(): void {
   }
 
+	activarMenu(e : any){
+	  
+		var menu =  document.getElementsByClassName('navbarActive'); 
+		menu[0].classList.add("navItem");
+		menu[0].classList.remove("navbarActive");
+		
+		
+		var menuSelected = document.getElementsByClassName(''+e+''); 
+		menuSelected[0].classList.add("navbarActive");
+		menuSelected[0].classList.remove("navItem");
+	}
+
 }
+
+

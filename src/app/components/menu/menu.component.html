@@ -1,27 +1,37 @@
 <div class="container divMenu">
 	<nav class="navbar navbar-expand-lg">
 	  <div class=" logo"></div>
-	  <div class="container-fluid beneficios">
-		<a class="navbar-brand" href="#beneficios">Beneficios</a>
+	  <div class="container-fluid beneficios  navbarActive navMenuItem">
+		<a (click)="activarMenu('beneficios')"  class="navbar-brand" href="#beneficios">Beneficios</a>
 		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
 		  <span class="navbar-toggler-icon"></span>
 		</button>
 		<div class="collapse navbar-collapse" id="navbarText">
 		  <ul class="navbar-nav me-auto mb-2 mb-lg-0">
 			<li class="nav-item">
-			  <a class="nav-link servicios" aria-current="page" href="#servicios">Servicios</a>
+			 <div class=" navItem navMenuItem divServicios">
+				<a (click)="activarMenu('divServicios')" class="nav-link servicios" aria-current="page" href="#servicios">Servicios</a>
+			  </div>
 			</li>
 			<li class="nav-item">
-			  <a class="nav-link metricas" href="#metricas">Métricas</a>
+				<div class="navItem navMenuItem divMetricas">
+					<a (click)="activarMenu('divMetricas')" class="nav-link metricas" href="#metricas">Métricas</a>
+				</div>
 			</li>
 			<li class="nav-item">
-			  <a class="nav-link industrias" href="#industrias">Industrias</a>
+				<div class="navItem navMenuItem divIndustrias">
+					<a (click)="activarMenu('divIndustrias')" class="nav-link industrias" href="#industrias">Industrias</a>
+				</div>
 			</li>			
 			<li class="nav-item">
-			  <a class="nav-link nosotros" href="#nosotros">Nosotros</a>
+			  <div class="navItem navMenuItem divNosotros">
+				<a (click)="activarMenu('divNosotros')" class="nav-link nosotros" href="#nosotros">Nosotros</a>
+			  </div>
 			</li>
 			<li class="nav-item">
-			  <a class="nav-link contactanos" href="#contacto">Contáctanos</a>
+			  <div class="navItem navMenuItem divContacto">
+				<a (click)="activarMenu('divContacto')" class="nav-link contactanos" href="#contacto">Contáctanos</a>
+			  </div>
 			</li>
 		  </ul>
 		</div>
