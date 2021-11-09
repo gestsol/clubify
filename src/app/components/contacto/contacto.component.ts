@@ -27,20 +27,34 @@ export class ContactoComponent implements OnInit {
   }
 	
   enviarFormulario(){
-	 const CONTACTO  = {
-		to: "dgonzalez@wit.la",
-		subject: "Nuevo mensaje del Formulario de Contacto",
-		content: "Nombre: "+this.contactoForm.get('nombre')?.value+"<br>Apellido: "+this.contactoForm.get('apellido')?.value+"<br>Correo: "+this.contactoForm.get('correo')?.value+"<br>Telefono: "+this.contactoForm.get('telefono')?.value+"<br>Mensaje: "+this.contactoForm.get('mensaje')?.value,
-	}
+	  
+	  var nombre = this.contactoForm.get('nombre')?.value;
+	  var apellido = this.contactoForm.get('apellido')?.value;
+	  var correo = this.contactoForm.get('correo')?.value;
+	  var telefono = this.contactoForm.get('telefono')?.value;
+	  var mensaje = this.contactoForm.get('mensaje')?.value;
+	  
+	  if(nombre=='' || apellido=='' || correo=='' || telefono=='' || mensaje==''){
+		  this.toastr.error('¡Debe completar el formulario!', 'Contacto Clubify:');
+	  }else{
+
+		 const CONTACTO  = {
+			to: "dgonzalez@wit.la",
+			subject: "Nuevo mensaje del Formulario de Contacto",
+			content: "Nombre: "+nombre+"<br>Apellido: "+apellido+"<br>Correo: "+correo+"<br>Telefono: "+telefono+"<br>Mensaje: "+mensaje,
+		}
+		
+		
+		//console.log(CONTACTO);
+		this._contactoService.enviarEmail(CONTACTO).subscribe(data => {
+		   this.toastr.success('¡Mensaje enviado!', 'Contacto Clubify:');
+		}, error => {
+		  this.toastr.error(error, 'Contacto Clubify:');
+		  console.log(error);
+		  this.contactoForm.reset();
+		})
 	
-	
-	//console.log(CONTACTO);
-	this._contactoService.enviarEmail(CONTACTO).subscribe(data => {
-       this.toastr.success('¡Mensaje enviado!', 'Contacto Clubify:');
-    }, error => {
-      console.log(error);
-      this.contactoForm.reset();
-    })
+	  }
 	
   }
 }
